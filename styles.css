@@ -1,0 +1,46 @@
+body{
+    background-color:#FFC4C4;
+}
+img{
+    opacity: 0.6;
+    position:relative;
+    right:0px;
+}
+h1,p{
+    text-align: center;
+    color:#FF577F;
+    font-family: 'Damion',cursive;
+    font-size:50px;
+}
+div{
+    bottom:0px;
+    position:absolute;
+    right:0px;
+    
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   
+  }
+  #bf{
+    top:10px;
+    position:absolute;
+    right:0px;
+    width=300px
+  }
+  #bf1
+  {
+    top:150px;
+    position:absolute;
+    right:300px;
+    width=300px
+  }
+  #bf2
+  {
+    top:320px;
+    position:absolute;
+    left:250px;
+    width=300px
+  }
